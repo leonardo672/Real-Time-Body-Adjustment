@@ -53,7 +53,7 @@ python -m http.server
 Then, open [http://localhost:8000](http://localhost:8000) in your browser.
 
 ### 4. Open the Project
-Open the `index.html` file in your browser to view the 3D model.
+Open the `Real-Time-Body-Adjustment.html` file in your browser to view the 3D model.
 
 ## Usage
 - **Shape Keys**: Use the sliders to adjust body features (if supported by the model).
