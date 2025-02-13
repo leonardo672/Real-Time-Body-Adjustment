@@ -106,3 +106,11 @@ This project is licensed under the **MIT License**.
 
 <img src="https://github.com/user-attachments/assets/230f337b-d796-41d9-965b-760f9de832ea" alt="Screenshot 1" width="800" height="500">
 
+### Adjust Waist Expansion:
+
+<img src="https://github.com/user-attachments/assets/cafeac7d-cfa3-4580-86fe-20d7e67cabd3" alt="Screenshot 1" width="800" height="500">
+
+### Adjust Legs size: 
+
+<img src="https://github.com/user-attachments/assets/7912a290-d2e9-4fd5-950a-6cb26be2e327" alt="Screenshot 1" width="800" height="500">
+
