@@ -1,4 +1,3 @@
-# Real-Time-Body-Adjustment
 
 # Real-Time Body Adjustment Tool
 
