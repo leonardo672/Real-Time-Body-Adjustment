@@ -86,7 +86,7 @@ Contributions are welcome! If you'd like to improve this project:
 3. **Submit a pull request**.
 
 ## License
-This project is licensed under the **MIT License**. See the [LICENSE](LICENSE) file for details.
+This project is licensed under the **MIT License**. 
 
 ## Acknowledgments
 - [Three.js](https://threejs.org/) for the amazing 3D library.
