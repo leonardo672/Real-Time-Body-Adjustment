@@ -17,10 +17,6 @@ This project is a **Real-Time Body Adjustment Tool** built using Three.js. It al
 - **Real-time Coordinates**: Display the model's current position in 3D space.
 - **Responsive Design**: Works on both desktop and mobile devices.
 
-## Live Demo
-You can view a live demo of the project here:
-[Live Demo Link](#) *(Add your live demo link once deployed)*
-
 ## Setup Instructions
 
 ### 1. Clone the Repository
