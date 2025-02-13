@@ -93,14 +93,16 @@ This project is licensed under the **MIT License**.
 - [Skypack](https://www.skypack.dev/) for providing the CDN links for Three.js modules.
 
 ## Screenshots
-### Screenshot 1
+
 **Caption**: Real-Time Body Adjustment Tool with Shape Key and Position Controls.
 
 <img src="https://github.com/user-attachments/assets/aad312e9-e6c2-4878-a39b-716d23fb523c" alt="Screenshot 1" width="800" height="500">
 
-Adjust Waist Slimness:
+### Adjust Waist Slimness:
 
 <img src="https://github.com/user-attachments/assets/842cfb94-b858-4963-8d5a-9f2abdf34ad9" alt="Screenshot 1" width="800" height="500">
 
+### Adjust Arms Size:
 
+<img src="https://github.com/user-attachments/assets/230f337b-d796-41d9-965b-760f9de832ea" alt="Screenshot 1" width="800" height="500">
 
