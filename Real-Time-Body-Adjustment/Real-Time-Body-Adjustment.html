@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>3D Head Model Viewer with Shape Key and Position Controls</title>
+    <!-- Link to your CSS file -->
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div id="container3D"></div>
+    <div id="coordinatesDisplay">X: 0, Y: 0, Z: 0</div>
+    <div id="controls">
+        <h3>Shape Keys</h3>
+        <h3>Position Controls</h3>
+        <label for="positionX">Position X</label>
+        <input id="positionX" type="range" min="-1000" max="1000" step="0.5" value="0">
+        <label for="positionY">Position Y</label>
+        <input id="positionY" type="range" min="-1000" max="1000" step="0.5" value="0">
+        <label for="positionZ">Position Z</label>
+        <input id="positionZ" type="range" min="-1000" max="1000" step="0.5" value="0">
+        
+        <h3>Scale Controls</h3>
+        <label for="scaleWidth">Width (X Scale)</label>
+        <input id="scaleWidth" type="range" min="0.1" max="3" step="0.01" value="1">
+        <label for="scaleHeight">Height (Y Scale)</label>
+        <input id="scaleHeight" type="range" min="0.1" max="3" step="0.01" value="1">
+    </div>
+
+    <!-- Link to your JavaScript file -->
+    <script src="javascript.js" type="module"></script>
+</body>
+</html>
