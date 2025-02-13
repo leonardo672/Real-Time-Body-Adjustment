@@ -79,7 +79,7 @@ The `body.glb` file is **not included** in this repository due to size and licen
   - [Clara.io](https://clara.io/)
 
 ## Contributing
-Contributions are welcome! If you'd like to improve this project:
+If you'd like to improve this project:
 
 1. **Fork** the repository.
 2. **Create a new branch** for your feature or bug fix.
