@@ -98,5 +98,8 @@ This project is licensed under the **MIT License**.
 
 <img src="https://github.com/user-attachments/assets/aad312e9-e6c2-4878-a39b-716d23fb523c" alt="Screenshot 1" width="800" height="500">
 
+Adjust Waist Slimness: 
+<img src="https://github.com/user-attachments/assets/842cfb94-b858-4963-8d5a-9f2abdf34ad9" alt="Screenshot 1" width="800" height="500">
+
 
 
