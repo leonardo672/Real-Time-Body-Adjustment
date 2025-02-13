@@ -96,5 +96,6 @@ This project is licensed under the **MIT License**.
 ### Screenshot 1
 **Caption**: Real-Time Body Adjustment Tool with Shape Key and Position Controls.
 
-![Screenshot](#) *(Replace with actual screenshot URL)*
+![Screenshot](#) ![Screenshot (804)](https://github.com/user-attachments/assets/ec02e7c4-958f-4484-aac8-10252bc44bd7)
+
 
